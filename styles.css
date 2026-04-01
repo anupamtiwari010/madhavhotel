@@ -782,7 +782,7 @@ body {
 .breadcrumb {
   padding: 150px 50px 40px;
   background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-              url('gallery/12.jpeg') center/cover;
+              url('images/12.jpeg') center/cover;
   color: white;
   text-align: center;
 }
